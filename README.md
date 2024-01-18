@@ -1,2 +1,2 @@
 # test
-Pat Mcavoy
+Pat McAvoy
